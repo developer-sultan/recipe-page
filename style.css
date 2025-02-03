@@ -64,7 +64,7 @@ main{
 }
 .preparation-time{
     background-color: #fff7fc;
-    padding: 1.9rem;
+    padding: 1.7rem;
     margin-bottom: 1.5rem;
     border-radius: 10px;
 }
@@ -75,7 +75,14 @@ main{
 .preparation-time__item > strong{
     color: #333;
 }
-
-
-
 /* Preparation Time Ends */
+
+/* Ingredients Starts */
+.ingredients__title{
+    margin-bottom: 0.9rem;
+}
+.ingredients__list{
+    list-style-position: inside;
+    padding-left: 10px;
+}
+/* Ingredients Ends */
