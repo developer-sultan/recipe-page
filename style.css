@@ -25,6 +25,13 @@ h1, h2, h3, h4, h5, h6{
     color: var(--secondary-color);
     font-family: "Young Serif", serif;;;
 }
+::marker{
+    color: var(--secondary-color);
+    font-weight: bold;
+}
+strong{
+    color: #333;
+}
 /* Common and reset css Ends */
 
 
@@ -72,9 +79,7 @@ main{
     padding-left: 10px;
     list-style-position:inside;
 }
-.preparation-time__item > strong{
-    color: #333;
-}
+
 /* Preparation Time Ends */
 
 /* Ingredients Starts */
@@ -86,3 +91,16 @@ main{
     padding-left: 10px;
 }
 /* Ingredients Ends */
+
+/* Instructions Starts */
+.instructions__title{
+    margin-bottom: 0.9rem;
+}
+.instructions__list{
+    /* list-style-position: inside; */
+    padding-left: 23px;
+}
+.instructions__item {
+    padding-left: 15px;
+}
+/* Instructions Ends */
