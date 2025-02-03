@@ -10,16 +10,13 @@
     box-sizing: border-box;
 }
 body{
-    font-family: "Young Serif", serif;
+    font-family: "Outfit", serif;
     font-weight: 400;
-    font-style: normal;
-    background-color: ;
+    background-color: var(--nutral-color);
     font-size: 16px;
+    line-height: 1.9rem;
 }
 
-ul {
-    list-style: none;
-}
 img{
     width: 100%;
     height: 100%;
@@ -30,8 +27,31 @@ img{
 /* Main Starts */
 
 main{
-    max-width: 1140px;
+    max-width: 800px;
     margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 16px;
 }
 
 /* Main Ends */
+
+/* omlate-receipe-image Starts */
+#omlate-receipe-image > img{
+    border-radius: 0.9rem;
+    margin-bottom: 1.2rem;
+}
+/* omlate-receipe-image Ends*/
+
+/* Omlate recipe header Starts */
+.omlate-recipe__title{
+    font-family: "Young Serif", serif;;
+}
+.omlate-recipe__description{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    line-height: normal;
+}   
+/* Omlate recipe header Ends */
