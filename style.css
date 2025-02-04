@@ -1,6 +1,6 @@
 /* Common and reset css starts */
 :root{
-    --primary-color: #000;
+    --primary-color: #343434;
     --secondary-color: #8a4a35;
     --nutral-color: #f3e5d8;
 }
@@ -62,6 +62,9 @@ main{
 /* omlate-receipe-image Ends*/
 
 /* Omlate recipe header Starts */
+.omlate-recipe__title{
+    color: #333;
+}
 .omlate-recipe__description{
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;

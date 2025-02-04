@@ -1,0 +1,104 @@
+@media only screen and (max-width: 420px){
+    /* main Starts */
+    body{
+        background-color: #fff;
+    }
+    main{
+        padding: 0;
+        margin: 0;
+    }
+    /* main Ends */
+
+    .for-mobile-responsive{
+        padding: 1.5rem;
+    }
+
+    /* omlate-receipe-image Starts */
+    #omlate-receipe-image > img{
+        border-radius: 0;
+        margin: 0;
+    }
+    /* omlate-receipe-image Ends */
+
+
+    /* Omlate recipe header Starts */
+    .omlate-recipe__title{
+        font-size: 2.1em;
+    }
+    .omlate-recipe__description{
+        margin-bottom: 2rem;
+    }
+    /* Omlate recipe header Ends */
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width: 421px) and (max-width: 767px){
+    body{
+        background-color: #fff;
+    }
+       /* main Starts */
+       main{
+        padding: 0;
+        margin: 0;
+    }
+    /* main Ends */
+
+    .for-mobile-responsive{
+        padding: 1.5rem;
+    }
+
+    /* omlate-receipe-image Starts */
+    #omlate-receipe-image > img{
+        border-radius: 0;
+        margin: 0;
+    }
+    /* omlate-receipe-image Ends */
+
+
+    /* Omlate recipe header Starts */
+    .omlate-recipe__title{
+        font-size: 2.1em;
+    }
+    .omlate-recipe__description{
+        margin-bottom: 2rem;
+    }
+    /* Omlate recipe header Ends */
+}
+@media only screen and (min-width: 768px ) and (max-width: 991px){
+    body{
+        background-color: #fff;
+    }
+       /* main Starts */
+       main{
+        padding: 0;
+        margin: 0  auto;
+    }
+    /* main Ends */
+
+    .for-mobile-responsive{
+        padding: 1.5rem;
+    }
+
+    /* omlate-receipe-image Starts */
+    #omlate-receipe-image > img{
+        border-radius: 0;
+        margin: 0;
+    }
+    /* omlate-receipe-image Ends */
+
+
+    /* Omlate recipe header Starts */
+    .omlate-recipe__title{
+        font-size: 2.1em;
+    }
+    .omlate-recipe__description{
+        margin-bottom: 2rem;
+    }
+    /* Omlate recipe header Ends */
+}
