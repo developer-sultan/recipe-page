@@ -102,7 +102,6 @@ main{
     margin-bottom: 0.9rem;
 }
 .instructions__list{
-    /* list-style-position: inside; */
     padding-left: 23px;
 }
 .instructions__item {
@@ -118,6 +117,8 @@ main{
 }
 .nutrition__table{
     width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 .nutrition__table tr {
     margin-left: 10px;
@@ -125,6 +126,9 @@ main{
 .nutrition__table tr td {
     border-bottom: 1px solid #e7e7e7;
     padding: 3px 30px;
+}
+.nutrition-border__bottom{
+    border-bottom: none !important;
 }
 .nutrition__table tr td strong{
     color: var(--secondary-color);
