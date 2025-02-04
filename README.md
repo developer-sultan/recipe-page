@@ -46,9 +46,9 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 ## Deploying your project
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- [gitHub](https://developer-sultan.github.io/recipe-page/)
+- [Vercel](https://recipe-page-wj3c.vercel.app/)
+- [Netlify](https://omlates-recipe-page.netlify.app/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
