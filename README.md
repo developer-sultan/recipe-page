@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-![/assets/images/image-omelette.jpeg](./preview.jpg)
+![Preview Project](https://github.com/developer-sultan/recipe-page/blob/main/assets/images/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -47,7 +47,6 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
