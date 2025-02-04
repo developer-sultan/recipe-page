@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-![/assets/images/image-omelette.jpeg](./preview.jpg)
+![Preview Project](https://github.com/developer-sultan/recipe-page/blob/main/assets/images/desktop-preview.jpg)
 
 ## Welcome! 👋
 
